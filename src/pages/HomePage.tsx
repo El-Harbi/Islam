@@ -107,6 +107,7 @@ const HomePage: React.FC = () => {
               <p>
                 نؤمن بأهمية التكنولوجيا في خدمة الدين، لذلك صممنا هذا الموقع بعناية
                 ليكون سهل الاستخدام ومفيد لجميع المسلمين حول العالم.
+                من برمجة فريق EH Mods، احمد احمد نبوي 
               </p>
             </div>
           </div>
@@ -120,7 +121,7 @@ const HomePage: React.FC = () => {
           <div className="contact-content">
             <p>للتواصل معنا والحصول على الدعم، يمكنكم التواصل عبر Discord</p>
             <a 
-              href="https://discord.gg/alharbi" 
+              href="https://discord.gg/Yc8GRBmnph" 
               className="discord-btn"
               target="_blank"
               rel="noopener noreferrer"

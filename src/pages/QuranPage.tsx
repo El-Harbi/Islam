@@ -8,6 +8,7 @@ interface Surah {
   verses: number;
   type: 'مكية' | 'مدنية';
   meaning: string;
+
 }
 
 const QuranPage: React.FC = () => {

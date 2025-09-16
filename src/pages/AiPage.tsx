@@ -49,7 +49,7 @@ const AiPage: React.FC = () => {
     setTimeout(() => {
       const aiResponse: Message = {
         id: (Date.now() + 1).toString(),
-        text: 'عذراً، حالياً لا يمكنني الاتصال بالخدمة. يرجى التأكد من إعداد API الخاص بـ ChatGPT. في المستقبل، سأكون قادراً على الإجابة على أسئلتك الإسلامية مع توفير المصادر الموثوقة من القرآن والسنة.',
+        text: 'Comming Soon.',
         isUser: false,
         timestamp: new Date(),
         sources: ['القرآن الكريم', 'صحيح البخاري', 'صحيح مسلم']
