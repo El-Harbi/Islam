@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Search, Play, Pause, Volume2, BookOpen, Star } from 'lucide-react';
-
+import PrayerReminder from './PrayerReminder';
 interface Surah {
   id: number;
   name: string;
